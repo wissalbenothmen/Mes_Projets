@@ -1,137 +1,75 @@
-## Personal Portfolio
+## Portfolio Personnel
 
-Welcome to my portfolio repository! Here, you can delve into my skills, projects, and professional journey. Discover noteworthy achievements and explore exciting collaboration opportunities. Additionally, this repository is exclusively reserved for confidential and personal projects, offering detailed descriptions and accompanying screenshots for reference. Thank you for visiting!
+Bienvenue sur le dépôt de mon portfolio ! Ici, vous pouvez explorer mes compétences, mes projets et mon parcours professionnel. Découvrez mes réalisations remarquables et explorez des opportunités passionnantes de collaboration. Ce dépôt est également réservé aux projets confidentiels et personnels, offrant des descriptions détaillées et des captures d'écran pour référence. Merci de votre visite !
 
-## Features
+## Fonctionnalités
 
-- **Visual Presentation:** A clean and modern design for a pleasant user experience.
-- **Projects:** Explore my past and current projects with detailed descriptions.
-- **Skills:** A comprehensive list of my technical and professional skills.
-- **Contact:** Stay in touch with me using the provided contact information.
+- **Présentation Visuelle :** Un design propre et moderne pour une expérience utilisateur agréable.
+- **Projets :** Explorez mes projets passés et actuels avec des descriptions détaillées.
+- **Compétences :** Une liste complète de mes compétences techniques et professionnelles.
+- **Contact :** Restez en contact avec moi en utilisant les informations de contact fournies.
 
-## Completed Projects
+## Projets Terminés
 
+### Projet 1 -> Web Scraper et Recommandation de Produits
 
-## Project1 -> Web Scraper and Product Recommendation
+Découvrez notre projet de web scraping, extrayant des informations de produits de divers sites de commerce électronique en Tunisie, notamment Mytek, Tunisianet et SBS Informatique. Les données extraites sont stockées dans une base de données MySQL, offrant des fonctionnalités telles que l'extraction de données, le stockage en base de données, la visualisation, le filtrage et la prédiction.
 
-Engage with our web scraper project, extracting product information from various e-commerce sites in Tunisia, including Mytek, Tunisianet, and SBS Informatique. The extracted data is stored in a MySQL database, offering features such as data extraction, database storage, visualization, filtering, and prediction.
+![Projet 1.1](projet1(img1).png)
+![Projet 1.2](projet1(img2).png)
+![Projet 1.3](projet1(img3).png)
+![Projet 1.4](projet1(img4).png)
+![Projet 1.5](projet1(img5).png)
+![Projet 1.6](projet1(img6).png)
 
-![Project 1.1](projet1(img1).png)
-![Project 1.2](projet1(img2).png)
-![Project 1.3](projet1(img3).png)
-![Project 1.4](projet1(img4).png)
-![Project 1.5](projet1(img5).png)
-![Project 1.6](projet1(img6).png)
+### Projet 2 -> 3ème Prix - Hackathon Airbnb et Jeux Olympiques 2024
 
+Notre équipe a remporté le 3ème prix lors d'un hackathon axé sur Airbnb et les Jeux Olympiques de 2024. Le défi pour les équipes participantes était de proposer des améliorations à l'expérience utilisateur sur Airbnb, en intégrant l'analyse géographique, le traitement du langage naturel (NLP) et l'étude des profils d'hôtes. Notre approche comprenait la compréhension des préférences des voyageurs basées sur la localisation, les habitudes passées et les activités qu'ils apprécient dans une région spécifique, proposant des expériences adaptées aux intérêts des utilisateurs tout en tenant compte de facteurs tels que la météo, les événements sportifs et les activités touristiques développées autour d'eux. De plus, nous avons suggéré de mettre en œuvre une fonction de recherche basée sur le traitement du langage naturel (NLP) pour permettre aux utilisateurs de trouver des logements en utilisant des requêtes plus naturelles et conversationnelles. Nous avons également analysé les descriptions de liste et les avis des utilisateurs pour comprendre les caractéristiques et les commodités les plus importantes pour chaque voyageur, affinant ainsi les résultats de recherche en conséquence. Nous avons extrait les exigences demandées par les locataires et effectué une analyse sentimentale pour les catégoriser avec leurs exigences.
 
-## Project2 -> eLearning Platform
+![Projet 2.1](hackathon2(img1).png)
+![Projet 2.2](hackathon2(img2).png)
+![Projet 2.3](hackathon2(img3).png)
 
-Embark on a language-learning journey with our PHP-powered eLearning platform. Similar to Udemy, it offers a dynamic and certified learning experience for language enthusiasts. Enjoy a responsive design, customizable learning paths, certified instructors, and a secure, feature-rich environment. Start your language journey today, mastering new skills and earning recognized certifications. 
+### Projet 3 -> Participation au Hackathon : Système de Gestion des Ressources Humaines Hospitalières avec Intégration de l'Apprentissage Automatique
 
-- Personalized learning with adaptive training programs.
-- Comprehensive skills assessment and progress tracking.
-- 3D model interaction for immersive language concept visualization.
-- API integration using Django and Django REST for seamless frontend interaction.
-- Intelligent chatbot powered by Flask, utilizing natural language processing (NLP).
-- Chatbot functionalities include word meaning clarification, responding to user queries, and providing precise definitions.
-- Security assessment with Nmap, Nikto, OWASP Zap, Burp Suite, DirBuster, and GoldenEye.
-**Technologies:** Django, Python, Flask, React.js, Three.js, PostgreSQL.
-**Feedback:**
-Flight2Fluency, acclaimed with the highest rating in the 2023 promotion, boasts an advanced chatbot utilizing Flask, NLP, and 3D model integration. Learners benefit from interactive language assistance, precise word meaning explanations, and user-friendly query responses. The project's robust security assessment and technology stack, including Django, Python, React.js, Three.js, and PostgreSQL, have garnered positive acclaim for its overall excellence.
-![Project 6.1](projet6(img1).png)
-![Project 6.2](projet6(img2).png)
-![Project 6.3](projet6(img3).jpg)
+Participation à un hackathon pour développer un système de gestion des ressources humaines (GRH) pour les hôpitaux, intégrant des modèles d'apprentissage automatique pour surveiller l'état des patients et prédire la probabilité de risques d'infections nosocomiales en temps réel.
 
-## Project3 -> Site Web Manager & CRM
+![Projet 3.1](hackathon1(img1).png.jpg)
+![Projet 3.2](hackathon1(img2).jpg)
+![Projet 3.3](hackathon1(img3).jpg)
+![Projet 3.4](hackathon1(img4).jpg)
+![Projet 3.5](hackathon1(img5).jpg)
+![Projet 3.6](hackathon1(img6).jpg)
 
-Explore our comprehensive Project Site Web Manager & CRM, a PHP-based solution designed to streamline project management and customer relationship processes. This all-in-one platform encompasses unified project management, sales and client management, team collaboration, and customizable dashboards. With a user-friendly interface and scalability, it aims to enhance productivity and ensure a secure and reliable experience.
+### Projet 4 -> Recherche sur les Préférences d'Apprentissage des Étudiants
 
-**Key Features:**
-- Unified Project Management
-- Sales Management
-- Client Management
-- Team Collaboration
-- Customizable Dashboards
-- Reports and Analytics
-- User-Friendly Interface
-- Scalable and Flexible
-- Secure and Reliable
-![Project 4.1](projet4(img1).png)
-![Project 4.2](projet4(img2).png)
+Dans le cadre de mon Master en Big Data et Intelligence Artificielle, j'ai mené une étude approfondie sur les préférences d'apprentissage des étudiants, incluant PCA, CA, MCA et des méthodes de classification telles que K-means et Ward. À l'aide de ces méthodes analytiques avancées, j'ai exploré les réponses globales à un questionnaire.
 
-
-## Project5 -> E-Learning Platform for Language Enhancement and Test Preparation
-This platform offers personalized learning experiences with adaptive training programs and comprehensive skills assessments. It features innovative tools for immersive language concept visualization and progress tracking.
-
-![Project 3.1](projet3(img1).png)
-![Project 3.2](projet3(img2).png)
-![Project 3.3](projet3(img3).png)
-![Project 3.4](projet3(img4).png)
-![Project 3.5](projet3(img5).png)
-
-## Project4 -> Multi-Purpose News and Magazine Script
-
-Discover the versatility of our PHP-powered news and magazine script, providing a clean, responsive, and user-friendly design for creating and managing sophisticated news websites. With features such as multilingual support, RTL support, SEO optimization, and various layout options, this script ensures a seamless experience for administrators and visitors alike.
-
-**Key Features:**
-- Clean and Responsive Design
-- Multilingual System
-- RTL Support
-- SEO Optimized
-- Layout Options
-- Author Management System
-- RSS Aggregator System
-- Ad Spaces
-- Progressive Web App (PWA) Support
-- AWS S3 Integration
-- Structured Data
-- Editable Pages
-- Contact Page
-- Reading List
-- Featured Posts, News Ticker, and Emoji Reactions
-- Post Formats
-- Scheduled and Pending Posts
-- Newsletter and Subscriber Management
-- Lazy Image Loading and Dynamic Tag System
-- Voting Polls and Social Integration
-- Widgets and Page View Counts
-- Comment System
-- Roles & Permissions
-- Membership System
-- Advanced Settings and Visual Customization
-- Security and Authentication
-
-![Project 2.1](projet2(img1).png)
-![Project 2.2](projet2(img2).png)
-![Project 2.3](projet2(img3).png)
-![Project 2.4](projet2(img4).png)
-
-
-
-## Personal portfolio
-This is my personal portfolio! I’m Wissal, a dedicated freelancer with a Master's degree in Big Data and Artificial Intelligence from Université Paris Dauphine. I specialize in data science, machine learning, web development, and more. My journey in the tech world is driven by a passion for creating innovative solutions that enhance learning and streamline processes. 
-https://wissalbenothmen.netlify.app
-
-![Project 5.1](projet5(img1).png)
-![Project 5.2](projet5(img2).png)
-![Project 5.3](projet5(img7).png)
-![Project 5.6](projet5(img4).png)
-
-## Project5 -> Research on Student Learning Preferences
-In the context of my Master's in Big Data and Artificial Intelligence, I conducted an in-depth study on student learning preferences, including PCA, CA, MCA, and classification methods like K-means and Ward. Using these advanced analytical methods, I explored global responses to a questionnaire.
 Caractéristiques clés :
+- Analyse multidimensionnelle des styles d'apprentissage et des préférences pédagogiques (ACP, AFC, ACM).
+- Utilisation de techniques de classification pour une exploration approfondie.
+- Exploration visuelle des préférences dans les domaines d'études et les loisirs.
+- Investigation des liens entre facteurs psychologiques et types d'intelligence.
 
-Analyse multidimensionnelle des styles d'apprentissage et des préférences pédagogiques (ACP, AFC, ACM).
-Utilisation de techniques de classification pour une exploration approfondie.
-Exploration visuelle des préférences dans les domaines d'études et les loisirs.
-Investigation des liens entre facteurs psychologiques et types d'intelligence.
+- Mots-clés :
+Préférences d'apprentissage, PCA, CA, MCA, Classification, Stratégies éducatives.
 
-Keywords:
-Learning preferences, PCA, CA, MCA, Classification, Educational strategies.
-![Project 7.1](projet7(img1).png)
-![Project 7.2](projet7(img2).png)
-![Project 7.3](projet7(img3).png)
-![Project 7.41](projet7(img4).png)
+![Projet 4.1](projet7(img1).png)
+![Projet 4.2](projet7(img2).png)
+![Projet 4.3](projet7(img3).png)
+![Projet 4.4](projet7(img4).png)
+
+### Projet 5 -> Analyse et Sélection de Modèles pour la Prédiction de l'Antigène Spécifique de la Prostate (lpsa)
+
+Ce projet vise à développer des modèles prédictifs précis et robustes pour prédire le niveau de l'antigène spécifique de la prostate (lpsa) à partir de diverses variables cliniques. PSA est un biomarqueur crucial utilisé pour évaluer le risque de cancer de la prostate. Les données utilisées proviennent de l'étude de Stamey et al. (1989) et comprennent des variables telles que le logarithme du volume du cancer, le logarithme du poids de la prostate, l'âge et d'autres caractéristiques cliniques pertinentes. Le projet commence par une phase d'exploration des données, incluant la visualisation des distributions, la vérification des valeurs manquantes et la normalisation des variables pour assurer la qualité des données avant la modélisation. Plusieurs techniques sont ensuite appliquées, notamment des modèles linéaires classiques, des méthodes de sélection de modèle, des techniques de régularisation (Ridge, Lasso, Elastic Net), ainsi que des régressions par moindres carrés partiels (PLS) et par composantes principales (PCR). Chaque méthode est évaluée avec différentes configurations pour assurer l'optimalité du modèle. Des techniques de validation croisée sont utilisées pour sélectionner les meilleurs hyperparamètres et évaluer les performances prédictives de chaque modèle. L'objectif est de comparer ces approches pour identifier la méthode la plus efficace et applicable dans un contexte clinique pour prédire le niveau de lpsa.
+
+- Compétences : Apprentissage automatique.
+
+![Projet 5.1](projet8(img1).png)
+![Projet 5.2](projet8(img2).png)
+![Projet 5.3](projet8(img3).png)
+![Projet 5.4](projet8(img5).png)
+
 
 ## Project6 -> Model Analysis and Selection Project for Prostate-Specific Antigen (lpsa) Prediction
 
