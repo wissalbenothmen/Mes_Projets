@@ -71,80 +71,97 @@ Ce projet vise à développer des modèles prédictifs précis et robustes pour 
 ![Projet 5.4](projet8(img5).png)
 
 
-## Project6 -> Model Analysis and Selection Project for Prostate-Specific Antigen (lpsa) Prediction
+## Projet 6 -> Résolution du Problème des N-Reines : Une Étude Comparative des Algorithmes
 
-This project aims to develop accurate and robust predictive models for predicting the level of prostate-specific antigen (lpsa) from various clinical variables. PSA is a crucial biomarker used to assess the risk of prostate cancer. The data used are from the study by Stamey et al. (1989) and include variables such as the log of cancer volume, log of prostate weight, age, and other relevant clinical features. The project begins with a data exploration phase, including visualization of distributions, checking for missing values, and normalization of variables to ensure data quality before modeling. Several techniques are then applied, including classical linear models, model selection methods, regularization techniques (Ridge, Lasso, Elastic Net), as well as partial least squares (PLS) and principal component regression (PCR). Each method is evaluated with different configurations to ensure model optimality. Cross-validation techniques are used to select the best hyperparameters and evaluate the predictive performances of each model. The goal is to compare these approaches to identify the most effective and applicable method in a clinical context for predicting lpsa level.This project aims to develop accurate and robust predictive models for predicting the level of prostate-specific antigen (lpsa) from various clinical variables. PSA is a crucial biomarker used to assess the risk of prostate cancer. The data used are from the study by Stamey et al. (1989) and include variables such as the log of cancer volume, log of prostate weight, age, and other relevant clinical features. The project begins with a data exploration phase, including visualization of distributions, checking for missing values, and normalization of variables to ensure data quality before modeling. Several techniques are then applied, including classical linear models, model selection methods, regularization techniques (Ridge, Lasso, Elastic Net), as well as partial least squares (PLS) and principal component regression (PCR). Each method is evaluated with different configurations to ensure model optimality. Cross-validation techniques are used to select the best hyperparameters and evaluate the predictive performances of each model. The goal is to compare these approaches to identify the most effective and applicable method in a clinical context for predicting lpsa level.
-Skills: Machine Learning
+Cette étude compare divers algorithmes pour résoudre le problème des N-reines, un problème classique en intelligence artificielle. Le problème des N-reines consiste à placer N reines sur un échiquier de taille N × N de manière à ce qu'aucune paire de reines ne se menace mutuellement, conformément aux règles des échecs. Le problème est formalisé comme un Problème de Satisfaction de Contraintes (CSP).
 
-![Project 8.1](projet8(img1).png)
-![Project 8.2](projet8(img2).png)
-![Project 8.3](projet8(img3).png)
-![Project 8.4](projet8(img5).png)
+Objectifs :
 
-## Project7 -> Model Analysis and Selection Project for Prostate-Specific Antigen (lpsa) Prediction
+- Formaliser le problème des N-reines en tant que CSP.
+- Implémenter et comparer l'algorithme AC3, la recherche en profondeur avec retour en arrière, et l'algorithme de vérification en avant.
+- Analyser les résultats et tirer des conclusions.
 
-This study compares various algorithms for solving the N-Queens problem, a classic problem in artificial intelligence. The N-Queens problem involves placing N queens on an N × N chessboard such that no two queens threaten each other, according to the rules of chess. The problem is formalized as a Constraint Satisfaction Problem (CSP).
+Compétences : Intelligence Artificielle (IA) · Algorithmes
 
-Objectives:
+![Projet 6.1](projet9(img1).png)
+![Projet 6.2](projet9(img2).png)
+![Projet 6.3](projet9(img3).png)
+![Projet 6.4](projet9(img4).png)
+![Projet 6.5](projet9(img5).png)
 
-Formalize the N-Queens problem as a CSP.
-Implement and compare the AC3 algorithm, depth-first search with backtracking, and Forward checking algorithm.
-Analyze the results and draw conclusions.This study compares various algorithms for solving the N-Queens problem, a classic problem in artificial intelligence. The N-Queens problem involves placing N queens on an N × N chessboard such that no two queens threaten each other, according to the rules of chess. The problem is formalized as a Constraint Satisfaction Problem (CSP). Objectives: Formalize the N-Queens problem as a CSP. Implement and compare the AC3 algorithm, depth-first search with backtracking, and Forward checking algorithm. Analyze the results and draw conclusions.
-Skills: Artificial Intelligence (AI) · Algorithms
+## Projet 7 -> Implémentation de l'Algorithme de Q-Learning pour la Résolution de Labyrinthes
 
-![Project 9.1](projet9(img1).png)
-![Project 9.2](projet9(img2).png)
-![Project 9.3](projet9(img3).png)
-![Project 9.4](projet9(img4).png)
-![Project 9.5](projet9(img5).png)
+Ce projet, dans le cadre du Master Big Data et Intelligence Artificielle, se concentre sur l'implémentation de l'algorithme de Q-learning pour résoudre des problèmes de labyrinthes. L'objectif est de former un agent à trouver le chemin le plus court entre un point de départ et un point de sortie dans un labyrinthe, tout en évitant les murs. Le projet implique la création de la structure du labyrinthe, la définition des états, des actions, des récompenses et des paramètres de l'algorithme, la formation de l'agent en utilisant le Q-learning, et la validation de sa capacité à trouver des chemins optimaux dans diverses configurations de labyrinthes.
 
-## Project8 -> Q-Learning Algorithm Implementation for Maze Solving
+Compétences : Apprentissage par Renforcement
 
-This project, part of the Big Data and Artificial Intelligence Master's program, focuses on implementing the Q-learning algorithm to solve maze problems. The objective is to train an agent to find the shortest path from a starting point to an exit point in a maze, while avoiding walls. The project involves creating the maze structure, defining states, actions, rewards, and algorithm parameters, training the agent using Q-learning, and validating its ability to find optimal paths in various maze configurations.This project, part of the Big Data and Artificial Intelligence Master's program, focuses on implementing the Q-learning algorithm to solve maze problems. The objective is to train an agent to find the shortest path from a starting point to an exit point in a maze, while avoiding walls. The project involves creating the maze structure, defining states, actions, rewards, and algorithm parameters, training the agent using Q-learning, and validating its ability to find optimal paths in various maze configurations.
-Skills: Reinforcement Learning
+![Projet 7.1](projet10(img1).png)
+![Projet 7.2](projet10(img2).png)
+![Projet 7.3](projet10(img3).png)
+![Projet 7.4](projet10(img4).png)
 
-![Project 10.1](projet10(img1).png)
-![Project 10.2](projet10(img2).png)
-![Project 10.3](projet10(img3).png)
-![Project 10.4](projet10(img4).png)
+## Projet 8 -> Top 5 % dans la Compétition Kaggle - Prédiction des Prix des Maisons
 
-## Project9 -> Top 5% in Kaggle Competition - House Prices Prediction
+Participation à une compétition Kaggle pour prédire les prix des maisons à Ames, Iowa, en utilisant 79 variables explicatives. Classé 240ème sur 4841 participants, dans le top 5 % des concurrents. Mise en œuvre de techniques de prétraitement des données incluant la gestion des valeurs manquantes et des valeurs aberrantes, l'ingénierie des caractéristiques, et utilisation de divers modèles de régression avancés. Application de techniques de stacking et blending avec des modèles tels que ElasticNet, Lasso, Ridge, SVR, GradientBoosting, XGBoost et LightGBM pour les prédictions.
 
-Participated in a Kaggle competition for predicting house prices in Ames, Iowa, using 79 explanatory variables. Ranked 240th out of 4841 participants, in the top 5% of competitors. Implemented data preprocessing techniques including handling missing values and outliers, featuring engineering, and used various advanced regression models. Additionally, applied stacking and blending techniques with models such as ElasticNet, Lasso, Ridge, SVR, GradientBoosting, XGBoost, and LightGBM for predictions.
+![Projet 8.1](projet11(img1).png)
+![Projet 8.2](projet11(img2).png)
+![Projet 8.3](projet11(img3).png)
 
+## Projet 9 -> Outil de Prise de Décision sous Incertitude : Une Application Web en Python Flask
 
-![Project 11.1](projet11(img1).png)
-![Project 11.2](projet11(img2).png)
-![Project 11.3](projet11(img3).png)
+Ce projet, développé pendant mes études universitaires, a consisté à créer une application web en utilisant Python Flask pour aider à la prise de décision sous incertitude. L'outil permet aux utilisateurs de saisir des critères de décision et des poids pour chaque critère. Il calcule ensuite le résultat de la décision en utilisant des méthodes telles que maximin, maximax, Laplace, Bernoulli, Hurwicz et minimax regret. Cela permet aux utilisateurs de comparer les résultats et de prendre des décisions éclairées.
 
-## Project10 -> Decision-Making Tool under Uncertainty: A Python Flask Web Application
+Compétences : Prise de Décision 
 
-This project, developed during my university studies, involved creating a web application using Python Flask to aid in decision-making under uncertainty. The tool allows users to input decision criteria and weights for each criterion. It then computes the decision outcome using methods such as maximin, maximax, Laplace, Bernoulli, Hurwicz, and minimax regret. This enables users to compare outcomes and make informed decisions.This project, developed during my university studies, involved creating a web application using Python Flask to aid in decision-making under uncertainty. The tool allows users to input decision criteria and weights for each criterion. It then computes the decision outcome using methods such as maximin, maximax, Laplace, Bernoulli, Hurwicz, and minimax regret. This enables users to compare outcomes and make informed decisions.
-Skills: Decision-Making 
+![Projet 9.1](Index.png)
+![Projet 9.2](form.png)
 
-![Project 11.1](Index.png)
-![Project 11.1](form.png)
+## Projet 10 -> Plateforme d'E-Learning
 
+Lancez-vous dans l'apprentissage des langues avec notre plateforme d'e-learning alimentée par PHP. Similaire à Udemy, elle offre une expérience d'apprentissage dynamique et certifiée pour les passionnés de langues. Profitez d'un design réactif, de parcours d'apprentissage personnalisables, d'instructeurs certifiés et d'un environnement sécurisé et riche en fonctionnalités. Commencez votre voyage linguistique dès aujourd'hui, maîtrisez de nouvelles compétences et obtenez des certifications reconnues.
 
-## Project11 -> Hackathon Participation: Hospital Human Resources Management System with Machine Learning Integrationon
+- Apprentissage personnalisé avec des programmes de formation adaptatifs.
+- Évaluation complète des compétences et suivi des progrès.
+- Interaction avec des modèles 3D pour une visualisation immersive des concepts linguistiques.
+- Intégration API utilisant Django et Django REST pour une interaction fluide avec le frontend.
+- Chatbot intelligent alimenté par Flask, utilisant le traitement du langage naturel (NLP).
+- Fonctionnalités du chatbot incluant la clarification des significations des mots, la réponse aux questions des utilisateurs et la fourniture de définitions précises.
+- Évaluation de la sécurité avec Nmap, Nikto, OWASP Zap, Burp Suite, DirBuster et GoldenEye.
 
-Participated in a hackathon to develop a Human Resources Management (HRM) system for hospitals, integrating machine learning models to monitor patient status and predict the probability of nosocomial infection risks in real time.Participated in a hackathon to develop a Human Resources Management (HRM) system for hospitals, integrating machine learning models to monitor patient status and predict the probability of nosocomial infection risks in real time.
-Skills: Machine Learning · Laravel · Teamwork · Team Leadership
+**Technologies :** Django, Python, Flask, React.js, Three.js, PostgreSQL.
 
-![Project 11.1](hackathon1(img1).png.jpg)
-![Project 11.1](hackathon1(img2).jpg)
-![Project 11.1](hackathon1(img3).jpg)
-![Project 11.1](hackathon1(img4).jpg)
-![Project 11.1](hackathon1(img5).jpg)
-![Project 11.1](hackathon1(img6).jpg)
+**Retour d'expérience :**
+Flight2Fluency, acclamé avec la note la plus élevée lors de la promotion 2023, se distingue par un chatbot avancé utilisant Flask, NLP et intégration de modèles 3D. Les apprenants bénéficient d'une assistance linguistique interactive, d'explications précises des significations des mots et de réponses aux questions des utilisateurs. L'évaluation de la sécurité robuste du projet et son stack technologique, incluant Django, Python, React.js, Three.js et PostgreSQL, ont reçu des critiques positives pour leur excellence globale.
 
-## Project12 -> 3rd Prize Winners - Airbnb and 2024 Olympic Games Hackathon
+![Projet 10.1](projet6(img1).png)
+![Projet 10.2](projet6(img2).png)
+![Projet 10.3](projet6(img3).jpg)
 
-Our team was awarded the 3rd prize at a hackathon focused on Airbnb and the 2024 Olympic Games. The challenge for participating teams was to propose improvements to the user experience on Airbnb, integrating Geographic Analysis, Natural Language Processing (NLP), and Host Profile Study. Our approach included understanding travelers' preferences based on location, past habits, and activities they enjoyed in a specific region, proposing experiences tailored to user interests while considering factors such as weather, sports events, and tourist activities developed around them. Additionally, we suggested implementing a search function based on Natural Language Processing (NLP) to allow users to find accommodations using more natural and conversational queries. We also analyzed listing descriptions and user reviews to understand the most important features and amenities for each traveler, refining search results accordingly. We extracted the requirements requested by the tenants and conducted a sentimental analysis to categorize them with their requirements
+## Projet 11 -> Site Web Manager & CRM
 
-![Project 11.1](hackathon2(img1).png)
-![Project 11.1](hackathon2(img2).png)
-![Project 11.1](hackathon2(img3).png)
+Découvrez notre solution complète Site Web Manager & CRM, une solution basée sur PHP conçue pour simplifier la gestion de projets et des relations clients. Cette plateforme tout-en-un comprend une gestion unifiée des projets, une gestion des ventes et des clients, une collaboration en équipe, et des tableaux de bord personnalisables. Avec une interface conviviale et une évolutivité, elle vise à améliorer la productivité et à assurer une expérience sécurisée et fiable.
 
+**Fonctionnalités Clés :**
+- Gestion Unifiée des Projets
+- Gestion des Ventes
+- Gestion des Clients
+- Collaboration en Équipe
+- Tableaux de Bord Personnalisables
+- Rapports et Analyses
+- Interface Conviviale
+- Évolutif et Flexible
+- Sécurisé et Fiable
 
-Thank you for visiting the "MyProjects" section of my portfolio repository! If you have any questions or if there's a project you'd like to explore further, feel free to reach out. Your interest is greatly appreciated!
+![Projet 11.1](projet4(img1).png)
+![Projet 11.2](projet4(img2).png)
+
+## Projet 12 -> Plateforme d'E-Learning pour l'Amélioration Linguistique et la Préparation aux Tests
+
+Cette plateforme offre des expériences d'apprentissage personnalisées avec des programmes de formation adaptatifs et des évaluations complètes des compétences. Elle comprend des outils innovants pour la visualisation immersive des concepts linguistiques et le suivi des progrès.
+
+![Projet 12.1](projet3(img1).png)
+![Projet 12.2](projet3(img2).png)
+![Projet 12.3](projet3(img3).png)
+![Projet 12.4](projet3(img4).png)
+![Projet 12.5](projet3(img5).png)
