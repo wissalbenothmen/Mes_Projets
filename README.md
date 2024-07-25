@@ -165,3 +165,52 @@ Cette plateforme offre des expériences d'apprentissage personnalisées avec des
 ![Projet 12.3](projet3(img3).png)
 ![Projet 12.4](projet3(img4).png)
 ![Projet 12.5](projet3(img5).png)
+## Projet 13 -> Script Multi-Usage pour Actualités et Magazines
+
+Découvrez la polyvalence de notre script PHP pour actualités et magazines, offrant un design épuré, réactif et convivial pour la création et la gestion de sites d'actualités sophistiqués. Avec des fonctionnalités telles que le support multilingue, le support RTL, l'optimisation SEO et diverses options de mise en page, ce script assure une expérience fluide pour les administrateurs et les visiteurs.
+
+**Fonctionnalités Clés :**
+- Design Épuré et Réactif
+- Système Multilingue
+- Support RTL
+- Optimisé pour le SEO
+- Options de Mise en Page
+- Système de Gestion des Auteurs
+- Système d'Agrégation RSS
+- Espaces Publicitaires
+- Support des Progressive Web Apps (PWA)
+- Intégration AWS S3
+- Données Structurées
+- Pages Éditables
+- Page de Contact
+- Liste de Lecture
+- Publications en Vedette, Défilement des Actualités et Réactions Emoji
+- Formats de Publication
+- Publications Planifiées et en Attente
+- Gestion des Newsletters et des Abonnés
+- Chargement d'Images Paresseux et Système de Tag Dynamique
+- Sondages et Intégration Sociale
+- Widgets et Comptage des Vues des Pages
+- Système de Commentaires
+- Rôles et Permissions
+- Système d'Adhésion
+- Paramètres Avancés et Personnalisation Visuelle
+- Sécurité et Authentification
+
+![Projet 13.1](projet2(img1).png)
+![Projet 13.2](projet2(img2).png)
+![Projet 13.3](projet2(img3).png)
+![Projet 13.4](projet2(img4).png)
+
+## Portfolio Personnel
+
+Voici mon portfolio personnel ! Je suis Wissal, une freelance dévouée avec un Master en Big Data et Intelligence Artificielle de l'Université Paris Dauphine. Je me spécialise dans la science des données, l'apprentissage automatique, le développement web, et plus encore. Mon parcours dans le monde de la technologie est guidé par une passion pour la création de solutions innovantes qui améliorent l'apprentissage et simplifient les processus. 
+
+[Visitez mon portfolio](https://wissalbenothmen.netlify.app)
+
+![Projet 5.1](projet5(img1).png)
+![Projet 5.2](projet5(img2).png)
+![Projet 5.3](projet5(img7).png)
+![Projet 5.6](projet5(img4).png)
+
+Merci de visiter la section "Mes_Projets" de mon dépôt de portfolio ! Si vous avez des questions ou si vous souhaitez explorer davantage un projet, n'hésitez pas à me contacter à l'adresse suivante : [wissal.benothmen01@gmail.com](mailto:wissal.benothmen01@gmail.com). Vous pouvez également me suivre sur [LinkedIn](https://www.linkedin.com/in/wissal-ben-othmen-2231521bb/). Votre intérêt est grandement apprécié !
